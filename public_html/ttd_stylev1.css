@@ -1,0 +1,30 @@
+body
+{
+margin: 20px;
+font-family: Verdana, Geneva, Arial,'sans serif';
+background-color: lightgray;
+color: black;
+}
+
+header {
+}
+
+section {
+    background-color: lightgoldenrodyellow;
+}
+article {
+    background-color: lightpink;
+}
+
+aside {
+    background-color: bisque;
+}
+
+footer {
+    background-color: bisque;
+}
+
+footer p {
+}
+
+

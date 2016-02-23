@@ -1,0 +1,68 @@
+body
+{
+    margin: 0px;
+    font-family: Verdana, Geneva, Arial,'sans serif';
+    font-size: 75%;
+    background-color: lightgray;
+    color: black;
+}
+
+header {
+    text-align: center;
+    background-color: lightblue;
+    margin: 20px;
+    border: 2px dashed black;
+}
+
+section {
+    float: left;
+    margin: 20px;
+    background-color: lightgoldenrodyellow;
+}
+
+section h2 {
+    text-align: center;
+}
+section p {
+    text-align: center;
+    clear: both;
+}
+
+article {
+    text-align: left;
+    display: block;
+    margin: 20px;
+    background-color: lightpink;
+    float: left;
+    width: 55%
+}
+
+.byline {
+    font-weight: bold;
+}
+
+aside {
+    display: block;
+    margin: 10px;
+    border: #00004F 1px solid;
+    padding: 5px;
+    margin: 20px;
+    float: right;
+    width: 35%;
+    background-color: bisque;
+}
+
+footer {
+    display: block;
+    clear: both; 
+    margin: 20px;
+    border: 2px dashed black;
+    background-color: bisque;
+    text-align: center;
+    font-style: italic;
+}
+
+footer p {
+}
+
+
